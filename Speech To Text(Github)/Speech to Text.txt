@@ -1,0 +1,5 @@
+import --> react-speech-recognition 
+   3rd party package to convert sppech to text
+
+import --> react-copy-to-clipboard
+	3rd party package to copy the text to clipboard
